@@ -34,10 +34,10 @@ Base das transações no algoritmo de **BLOCK**chain
 
 ### Merkle Root
 
-	* Representação de todas as transações de um bloco
-	* A cada 2 transações é criado uma hash até ela se mergear com uma hash principal chamada de **Merklee Root**
-	* Árvore acima é feita para encurtar caminhos na busca de validar transações do bloco
-	* Merkle root é o ator que quebraria todas as chain em caso de mudança na hash original de uma transação
+* Representação de todas as transações de um bloco
+* A cada 2 transações é criado uma hash até ela se mergear com uma hash principal chamada de **Merklee Root**
+* Árvore acima é feita para encurtar caminhos na busca de validar transações do bloco
+* Merkle root é o ator que quebraria todas as chain em caso de mudança na hash original de uma transação
 
 ### Nonce
 
