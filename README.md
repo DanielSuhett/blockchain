@@ -8,7 +8,7 @@
 
 
 1. [Funções Hash, suas resistências e os casos de uso da criptografia](https://github.com/DanielSuhett/learning-crypto-resumes/blob/master/Hash.md)
-2. [O que é um bloco, quais seus metadados e sua segurança](https://github.com/DanielSuhett/learning-crypto-resumes/blob/master/Bloco.md)
+2. [O que é um bloco, quais seus metadados e sua segurança](https://github.com/DanielSuhett/learning-crypto-resumes/blob/master/Blocos.md)
 3. [Rede P2P descentralizada e o Memory Pool](https://github.com/DanielSuhett/learning-crypto-resumes/blob/master/Rede.md)
 4. [Consenso, como a rede concorda quais transações são confiáveis, PoW vs PoS](https://github.com/DanielSuhett/learning-crypto-resumes/blob/master/Consenso.md)
 5. [Esquema de assinatura digital (DDS) e criptografia de curva elíptica](https://github.com/DanielSuhett/learning-crypto-resumes/blob/master/AssinaturaDigital.md)
